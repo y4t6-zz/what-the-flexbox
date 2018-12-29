@@ -32,5 +32,6 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 .container {
   display: flex;
   border: 10px solid goldenrod;
-  height: 100vh;
+  min-height: 100vh;
+  flex-direction: row;
 }

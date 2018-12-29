@@ -8,6 +8,9 @@ Work on **src/** folder and gulp build in **dist/**.
 
 <!-- TOC -->
 
+## Useful links
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 - [1. Hello Front](#1-hello-front)
   - [1.1. Installation](#11-installation)
     - [1.1.1. Node version manager](#111-node-version-manager)
